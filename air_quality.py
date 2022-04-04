@@ -1,6 +1,3 @@
-#Olley Ibidamola Daniel
-#220216600
-
 
 #Calculate the air quality index and display the maximum value
 empty = []
