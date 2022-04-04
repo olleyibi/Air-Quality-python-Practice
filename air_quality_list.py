@@ -1,5 +1,3 @@
-#OLLEY IBIDAMOLA
-#2200216600
 
 # this function opens filename and return its content in form dictionary
 def read_data(filename):
